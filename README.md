@@ -6,10 +6,4 @@
 
 We're being cheeky and replacing youtube thumbnails with pingu.
 
-+ Clone noot_Noot_Extension
-+ Click google chrome exentions
-+ Toggle Developer Mode
-+ Click Unpack Load
-+ Select the noot_Noot_Extension folder
-+ Load up youtube and have a giggle
 </h2>
