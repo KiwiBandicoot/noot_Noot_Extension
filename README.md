@@ -4,8 +4,7 @@
 <h2 align = "left">
   NOOT NOOT!
 
-#Simple google chrome extension
-#Where we're being cheeky and replacing youtube thumbnails with pingu.
+#Simple google chrome extension, Where we're being cheeky and replacing youtube thumbnails with pingu.
 
 
 </h2>
